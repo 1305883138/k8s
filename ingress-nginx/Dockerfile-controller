@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.1.0
+FROM registry.cn-hangzhou.aliyuncs.com/k8sos/ingress-controller:v1.1.1
